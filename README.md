@@ -12,7 +12,7 @@ and refer to this Applied Computational Intelligence Laboratory (ACIL) Github re
 [Online]. 
 <br/>Available: https://github.com/ACIL-Group/CVIFA
 
-* The data sets used in the experiments section of the Validity Index-based Fuzzy ART paper are available at:
+* The data sets used in the experiments section of the Validity Index-based Vigilance Test Fuzzy ART paper are available at:
 
 1. UCI machine learning repository:
 <br/>http://archive.ics.uci.edu/ml
